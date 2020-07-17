@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Dorian\Desktop\c++\Demo\Demo\main.cpp(78,16): warning C4244: 'initialisation' : conversion de 'long double' en 'int', perte possible de données
+C:\Users\Dorian\Desktop\c++\Demo\Demo\main.cpp(85,13): warning C4244: 'initialisation' : conversion de 'long double' en 'int', perte possible de données
+C:\Users\Dorian\Desktop\c++\Demo\Demo\main.cpp(87,14): warning C4244: 'initialisation' : conversion de 'long double' en 'int', perte possible de données
+  Génération de code en cours
+  1 of 93 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Demo.vcxproj -> C:\Users\Dorian\Desktop\c++\Demo\x64\Release\Demo.exe
